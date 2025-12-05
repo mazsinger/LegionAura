@@ -39,7 +39,7 @@ LegionAura provides full control over the built-in 4-zone RGB ITE keyboard witho
 * Brightness control (1–2)
 * Wave direction (LTR / RTL)
 * Brightness-only mode
-* Safe color auto-fill (e.g., 1 color applies to all 4 zones; 3 colors applies to Z1, Z2, Z3, Z3)
+* Safe color auto-fill (e.g., 1 color applies to all 4 zones; 3 colors applies to Z1, Z2, Z3, Z4)
 * Simple CLI with human-friendly commands
 * GUI (Qt6) for easy control
 * C++17/libusb backend
